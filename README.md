@@ -1,2 +1,0 @@
-# MachineLearning
-Introduction to MachineLearning
