@@ -1,5 +1,5 @@
-Training Deep Neural Nets
----------------------------
+Chapter 11: Training Deep Neural Nets
+---------------------------------------
 
 Skip this chapter
 

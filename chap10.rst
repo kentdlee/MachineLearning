@@ -1,5 +1,5 @@
-Introduction to Artificial Neural Networks
---------------------------------------------
+Chapter 10: Introduction to Artificial Neural Networks
+---------------------------------------------------------
 
 Week of April 18th
 

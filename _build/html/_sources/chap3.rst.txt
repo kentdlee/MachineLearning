@@ -1,5 +1,5 @@
-Classification
-------------------
+Chapter 3: Classification
+----------------------------
 
 Reading Assignment
 +++++++++++++++++++

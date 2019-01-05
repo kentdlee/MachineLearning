@@ -1,5 +1,5 @@
-Ensemble Learning and Random Forests
--------------------------------------
+Chapter 7: Ensemble Learning and Random Forests
+------------------------------------------------
 
 Skip this chapter?
 

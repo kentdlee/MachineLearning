@@ -1,5 +1,5 @@
-Convolutional Neural Networks
--------------------------------
+Chapter 13: Convolutional Neural Networks
+-------------------------------------------
 
 Start this the first week in May. This is followed by a final project. Last day of class is May 16th. Final Project instead of Final Exam?
 

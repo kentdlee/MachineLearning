@@ -1,5 +1,5 @@
-Support Vector Machines
--------------------------
+Chapter 5: Support Vector Machines
+--------------------------------------
 
 Spend a day or so on this chapter?
 

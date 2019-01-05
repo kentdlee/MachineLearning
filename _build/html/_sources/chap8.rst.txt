@@ -1,5 +1,5 @@
-Dimensionality Reduction
-----------------------------
+Chapter 8: Dimensionality Reduction
+-------------------------------------
 
 February 28th to March 7th.
 

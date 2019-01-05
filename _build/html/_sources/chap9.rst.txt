@@ -1,5 +1,5 @@
-Up and Running with TensorFlow
----------------------------------
+Chapter 9: Up and Running with TensorFlow
+-------------------------------------------
 
 Getting started with TensorFlow.
 

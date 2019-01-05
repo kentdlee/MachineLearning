@@ -1,5 +1,5 @@
-Training Models
-------------------
+Chapter 4: Training Models
+----------------------------
 
 Work on this after introducing Chapter 8.
 

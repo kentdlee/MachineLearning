@@ -1,5 +1,5 @@
-End-to-End Overview
----------------------
+Chapter 2: End-to-End Overview
+---------------------------------
 
 Reading Assignment
 +++++++++++++++++++
