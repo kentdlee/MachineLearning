@@ -8,7 +8,7 @@ SOURCEDIR     = .
 BUILDDIR      = _build
 
 update:
-	get pull origin master
+	git pull origin master
 
 release: html
 	git add .
